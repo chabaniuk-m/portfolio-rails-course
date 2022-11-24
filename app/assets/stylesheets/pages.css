@@ -1,0 +1,30 @@
+/*
+#FFA69E - red
+#FAF3DD - cream
+#B8F2E6 - green
+#AED9E0 - blue
+#5E6472 - dark blue
+ */
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #FAF3DD;
+  font-family: "Roboto Light", sans-serif;
+}
+
+header {
+  background-color: #B8F2E6;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+header span {
+  flex: 1;
+}
+
+header nav span {
+  flex: 1;
+}
